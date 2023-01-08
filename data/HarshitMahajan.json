@@ -1,0 +1,30 @@
+{
+  "name": "Harshit Mahajan",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Loves to listen to music | Community💟 | Learning js",
+  "avatar": "",
+  "Links": [
+    {
+      "name": "Folow me on Twitter",
+      "url": "https://twitter.com/HarshitMahajan_", 
+      "icon": "FaTwitter",
+    },
+    {
+      "name": "Instagram",
+      "url": "https://instagram.com/_HarshitMahajan_", 
+      "icon": "FaInstagram",
+    },
+    {
+      "name": "Connect with me on Linkedin",
+      "url": "https://linkedin.com/in/hm1104", 
+      "icon": "FaLinkedin",
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/HarshitMahajan" ,
+      "icon": "FaGithub",
+    }
+    
+   ]
+  }
